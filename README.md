@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86187456/125637351-a4e01115-0133-4aaf-8ff6-6b6fcb718da3.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86187456/125637351-a4e01115-0133-4aaf-8ff6-6b6fcb718da3.gif){: width="20%" height="20%"}
 첫 페이지 애니메이션, 그래프 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86187456/125636521-f0b9ea4b-7ec7-41a8-8777-9a92a825fd6c.gif)
