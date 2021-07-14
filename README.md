@@ -2,7 +2,7 @@
 start
 개인 공부 중
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/86187456/125636374-654a697a-2ecf-4906-afdc-3597cca4ac2c.gif)
+![ezgif com-gif-maker (3)]( width="588" height="300" https://user-images.githubusercontent.com/86187456/125636374-654a697a-2ecf-4906-afdc-3597cca4ac2c.gif)
 첫 페이지 애니메이션, 그래프 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86187456/125636521-f0b9ea4b-7ec7-41a8-8777-9a92a825fd6c.gif)
